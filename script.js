@@ -1,3 +1,4 @@
+var _ = require('lodash');
 var h3=document.querySelector("h3"); //querySelector returns only first found 
 var color1=document.querySelector(".color1");
 var color2=document.querySelector(".color2");
